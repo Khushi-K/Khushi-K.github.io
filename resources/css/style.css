@@ -32,3 +32,13 @@ main p {
     color: grey;
 }
 
+footer {
+    text-align: right;
+    color: grey;
+    
+}
+
+footer span {
+    font-size: 23px;
+}
+
